@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container,
+.action,
+.action-2{
+    max-width: 100%;
+}
+
+
+a:hover{
+    color: aqua;
+}
+.container{
+    position: relative;
+    background-image: url(./bf-2042-section-bg-homepage-hero-keyart-xl.jpg.adapt.1920w.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    padding: 1rem;
+    
+
+}
+
+
+.first-background{
+    background-color: rgb(21, 20, 20);
+    height: 50px;
+    align-items: center;
+}
+
+
+.links{
+    display: flex;
+    margin-left: 1125px;
+
+    
+
+
+}
+
+
+.links ul{
+
+}
+
+
+.links a{
+    color: white;
+   
+    
+}
+
+
+.first{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem;
+    align-items: center;
+    background-color: black;
+    
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 5rem;
+}
+
+
+.h1:hover{
+    color: aqua;
+    text-decoration: none;
+}
+
+
+.first-links a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+
+.first-button button{
+   width: 200px;
+   height: 40px;
+   background-color: aqua;
+}
+
+
+.action{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 165px;   
+}
+
+
+.action h1{
+    display: flex;
+   font-size: 26px;
+   color: white;
+   margin-left: 4rem;
+   
+}
+
+
+.action p{
+    color: white;
+    width: 400px;
+    font-size: 19px;
+    }
+
+
+p-1{
+    display: flex;
+    margin-left: 2rem;
+    color: white;
+    width: 400px;
+    font-size: 19px;
+    }
+
+
+.action-button{
+    
+    margin-left: 12rem;
+    gap: 2rem;
+
+}
+
+
+.button{
+    display: flex;
+    gap: 2rem;
+}
+
+
+.button-1 button{
+        background-color: firebrick;
+        
+}
+
+
+.button-2 button{
+    
+}
+
+
+.action-button button{
+    margin-top: 1rem;
+    width: 165px;
+    height: 65px;
+}
+
+
+.action-2-background{
+    margin-top: 214px;
+    background-image: url(./bf-2042-section-bg-homepage-experiences-xl.jpg.adapt.1920w.jpg);
+    background-repeat: no-repeat;
+    
+
+
+    
+
+}
+
+
+.action-2-background img{
+    
+}
+
+
+.acton-2 img{
+    width: 100%;
+}
+
+a:hover{
+    color: aqua;
+}
